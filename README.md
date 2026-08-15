@@ -1,2 +1,2 @@
-# FMML_projects_and_labs1
+machine-learning-projects
 my projects and labs submission
