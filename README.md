@@ -1,2 +1,2 @@
 machine-learning-projects
-my projects and labs submission
+Collection of Machine Learning projects and experiments using Python, Pandas, Scikit-learn, and Jupyter Notebook.
